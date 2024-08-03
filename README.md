@@ -1,2 +1,3 @@
-# Demo-repo
-This is the demo repo to learn git and github 
+# Demo
+
+This is where I put my readme's description
